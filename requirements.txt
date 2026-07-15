@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+## uncomment this while training
+# nltk
+# scikit-learn
+# gensim
+# transformers
+# torch
